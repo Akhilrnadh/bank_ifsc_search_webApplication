@@ -1,0 +1,68 @@
+label{
+		text-decoration: none;
+		color: blue;
+		font-weight: 600;
+	}
+
+	@media (max-width: 360px) {
+		html, body{
+			font-family: sans-serif;
+		}
+	}
+
+	@media (max-width: 360px) {
+		h1, h2, h3, h4{
+			font-size: 20px;
+			font-weight: 700;
+			padding: 25px 0px 0px 0px;
+		}
+	}
+
+	@media (min-width: 360px) {
+		h1, h2, h3, h4{
+			font-size: 30px;
+			font-weight: 700;
+			padding: 25px 0px 0px 0px;
+		}
+	}
+
+	@media (max-width: 360px) {
+		p{
+			font-size: 15px;
+			font-weight: 500;
+			padding: 5px 0px 0px 0px;
+		}
+	}
+
+	@media (min-width: 360px) {
+		p{
+			font-size: 20px;
+			padding: 5px 0px 0px 0px;
+		}
+	}
+
+	@media (max-width: 360px) {
+		.title{
+			font-size: 13px;
+			font-weight: 550;
+			font-family: domine;
+			text-decoration: none;
+			text-transform: uppercase;
+		}
+	}
+
+	@media (max-width: 360px){
+		.li{
+			font-size: 17px;
+			text-transform: lowercase;
+			padding: 25px 0px 0px 0px;
+		}
+	}
+
+	@media (min-width: 360px){
+		.li{
+			font-size: 25px;
+			text-transform: lowercase;
+			padding: 25px 0px 0px 0px;
+		}
+	}

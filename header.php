@@ -1,0 +1,25 @@
+<div class="container-fluid">
+   <!---navigation--->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="index.php"><span class="title">Indian Bank IFSC Code Finder</span></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link text-white" href="index.php"><i class="fas fa-home"></i> Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link text-white" href="about.php"><i class="fas fa-users"></i> About Us</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link text-white" href="contact.php"><i class="far fa-envelope"></i> Contact Us</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link text-white" href="privacypolicy.php"><i class="far fa-envelope"></i> Privacypolicy</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+   <!---navigation--->
